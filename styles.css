@@ -1,0 +1,203 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.Titulo{
+    padding: 35px;
+    height: 40%;
+    color: rgb(29, 121, 192);
+    border: solid;
+    font-size: 60px;
+    font-family: "Libre Franklin";
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    height: 19vh;
+    background-color: #1b1b1b;
+}
+
+.navbar-logo {
+    justify-self: start;
+    margin-left: 20px;
+    color: #fff;
+    margin-top: 4vh;
+    cursor: pointer;
+}
+
+
+.ver-carrito {
+    font-size: 25px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 20%;
+    background-image: url(/Imagenes/azulfondo.png);
+    text-align: center;
+}
+
+
+.banner p {
+    margin: 0;
+    font-size: 30px;
+    color: white;
+}
+
+
+.shop-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgb(29, 121, 192); 
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    margin: 10px;
+}
+
+.card>img {
+    width: 100%;
+    height: 250px;
+}
+
+.price {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: rgb(29, 121, 192);;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.card button:hover {
+    opacity: 0.7;
+}
+
+
+.modal-container {
+    width: 80%;
+    margin: 0 10%;
+    max-height: 88vh;
+    color: #fff;
+    background-color: #121212;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+    overflow: auto;
+    z-index: 9;
+    top: 12vh;
+    scrollbar-color: none;
+}
+
+
+.modal-header {
+    display: flex;
+    justify-content: center;
+    background-color: #0a0909;
+    color: #fff;
+    width: 100%;
+}
+
+
+.modal-header-button {
+    cursor: pointer;
+}
+
+.modal-container>.modal-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 70%;
+    margin: 10px;
+    background-color: #09090a;
+}
+
+.modal-container>div>img {
+    height: 100px;
+    width: 100px;
+}
+
+.total-content {
+    font-size: 25px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+.delete-product {
+    cursor: pointer;
+}
+
+
+.cantidad-carrito {
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    font-size: 12px;
+    padding: 4px;
+    top: 50px;
+    right: 14px;
+    position: absolute;
+    display: none;
+}
+
+.sumar {
+    cursor: pointer;
+}
+
+.restar {
+    cursor: pointer;
+}
+
+footer {
+    background-color: black;
+    color: rgb(179, 92, 92);
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+
+    p {
+        margin-bottom: 20px;
+    }
+}
+
+footer {
+    i {
+        color: orange;
+        font-size: 30px;
+        letter-spacing: 30px;
+    }
+} 

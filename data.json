@@ -1,0 +1,119 @@
+[
+    {
+    "id": 1,
+    "nombre": "Chomba",
+    "escuela": "Misericordia",
+    "talle": "L",
+    "precio": 160,
+    "img": "https://verdemasweb.com.ar/wp-content/uploads/CHOMBA-DIVINA-1-500x500.jpg",
+    "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Chomba",
+        "precio": 140,
+        "escuela": "Misericordia",
+        "talle": "M",
+        "img": "https://verdemasweb.com.ar/wp-content/uploads/CHOMBA-DIVINA-1-500x500.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Short",
+        "escuela": "Misericordia",
+        "talle": "M",
+        "precio": 250,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_618517-MLA48486821458_122021-O.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Short",
+        "escuela": "Misericordia",
+        "talle": "S",
+        "precio": 220,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_618517-MLA48486821458_122021-O.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Uniforme",
+        "escuela": "San José",
+        "talle": "L",
+        "precio": 520,
+        "img": "https://i.pinimg.com/236x/c9/7c/d3/c97cd32745b4104cba9ad81fef18f116.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Medias",
+        "escuela": "San José",
+        "talle": "Talle Unico",
+        "precio": 50,
+        "img": "https://i0.wp.com/rainbowmoda.com/wp-content/uploads/2022/01/BUCMED.jpg?fit=900%2C800&ssl=1",
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "nombre": "Pantalon deportivo",
+        "escuela": "Misericordia",
+        "talle": "L",
+        "precio": 720,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_721043-MLA69368043657_052023-O.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 8,
+        "nombre": "Falda",
+        "escuela": "San José",
+        "talle": "S",
+        "precio": 310,
+        "img": "https://tuniformeayuda.com/wp-content/uploads/2021/07/pollera-san-roman12.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 9,
+        "nombre": "Zapatos",
+        "escuela": "San José",
+        "talle": "L",
+        "precio": 520,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_727813-MLM51800128144_102022-O.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 10,
+        "nombre": "Sweater",
+        "escuela": "La Plaza",
+        "talle": "L",
+        "precio": 300,
+        "img": "https://image.made-in-china.com/318f0j00ctBRMieIgDzC/video.webp",
+        "cantidad": 1
+    },
+    {
+        "id": 11,
+        "nombre": "Campera",
+        "escuela": "San José",
+        "talle": "L",
+        "precio": 349,
+        "img": "https://tequierofashion.com/cdn/shop/products/product-image-545786111_580x.jpg?v=1571720317",
+        "cantidad": 1
+    },
+    {
+        "id": 12,
+        "nombre": "Uniforme",
+        "escuela": "La Plaza",
+        "talle": "L",
+        "precio": 1000,
+        "img": "https://us.123rf.com/450wm/gulyaevstudio/gulyaevstudio2305/gulyaevstudio230500104/203602762-una-camisa-y-pantalones-cortos-para-un-uniforme-escolar-est%C3%A1n-al-lado-de-una-camisa-y-pantalones.jpg?ver=6",
+        "cantidad": 1
+    },
+    {
+        "id": 13,
+        "nombre": "Guantes",
+        "escuela": "San José",
+        "talle": "Talle Unico",
+        "precio": 50,
+        "img": "https://royalenfieldar.com/wp-content/uploads/2023/03/ROVERV3_4.jpg",
+        "cantidad": 1
+    }
+]
