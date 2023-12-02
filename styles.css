@@ -47,7 +47,7 @@ body {
     background-size: cover;
     background-position: center;
     height: 20%;
-    background-image: url(azulfondo.png);
+    background-color:  rgb(29, 121, 192);
     text-align: center;
 }
 
